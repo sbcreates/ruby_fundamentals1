@@ -1,3 +1,5 @@
+puts "What is your age?"
+
 user_age = gets.to_i
 my_age = 30
 

@@ -1,3 +1,5 @@
+puts "What is your first name?"
+
 my_name = "Sarah"
 user_name = gets.to_s
 

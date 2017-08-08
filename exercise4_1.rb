@@ -1,3 +1,5 @@
+puts "Please enter a number. Any number."
+
 number = gets.to_i
 
 if number > 100
