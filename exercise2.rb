@@ -2,7 +2,7 @@ tip = 0.20
 
 puts 50 * tip
 
-puts (50 + tip).to_s
+puts "string" + "5"
 
 puts "If we multiply 45628 by 7839, we will get the result #{45628 * 7839}"
 
